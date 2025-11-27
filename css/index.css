@@ -55,6 +55,7 @@ body{
 /* navBar Section */
 .navbar {
   background-color: white !important;
+  border-bottom: 1px solid #E5E7EB !important;
 }
 
 
@@ -288,8 +289,6 @@ h1{
   border-radius: 4px;
 }
 
-.trustedPartners-slider-item-logo{
-}
 
 .fa-building-columns{
     background: linear-gradient(to right, #0A1F44, #1E3A8A);
@@ -354,9 +353,6 @@ background-color: #155dfc;
     color: #4A5565;
 }
 
-.pricing-cards{
-
-}
 
 
 .pricing-one-card{
