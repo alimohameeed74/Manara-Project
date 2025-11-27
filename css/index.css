@@ -52,47 +52,11 @@ body{
 
 
 
-/* endorSementBar Section */
-
-/* Variables for endorSementBar */
-:root{
-    --endorsed-by: #D4AF37;
-}
-
-.endorSementBar{
-    background: linear-gradient(to right, #0A1F44, #1E3A8A);
-    font-size: var(--fz-10);
-}
-
-.Endorsed{
-    color: var(--endorsed-by);
-}
-
-/* #endorSementBar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1031; 
-} */
-
-
-
-/* End Of endorSementBar Section */
-
-
-
-
-
-
 /* navBar Section */
-/* .navbar {
-  position: fixed;
+.navbar {
   background-color: white !important;
-  top: 60px; 
-  width: 100%;
-  z-index: 1030;
 }
- */
+
 
 
 
@@ -445,7 +409,8 @@ background-color: #155dfc;
 
 /* Footer */
 .footer{
-    background-color: #0A1F44;
+    background: linear-gradient(to right, #0A1F44, #1E3A8A);
+
 }
 
 .footer-c-1-p{
